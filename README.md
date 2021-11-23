@@ -1,0 +1,1 @@
+https://github.com/NTForked/amg-solver を使ってスタディ中
